@@ -1,0 +1,86 @@
+
+p {
+    color: yellow;
+    text-shadow: 4px 4px black;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-top: 100px;
+}
+
+.col-2 {
+    color: black;
+    background: yellow;
+    border: 2px seagreen solid;
+    border-radius: 15px;
+    text-align: center;   
+    margin: 0 auto;
+}
+
+.about_return {
+    text-align: right;
+    display: block;
+    margin-right: 15px;
+    padding-top: 50px;
+    
+    
+    color:gold;
+    font-size: 25px;
+    font-style: italic;
+    
+}
+
+.about_return:hover {
+    color: gold;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.index_h1 {
+    display: block;
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+    color: red;
+    text-align: center;
+    border: 2px black solid;
+    border-radius: 15%;
+    margin-top: 50px;
+}
+
+.index_h1:hover {
+    color: green;
+ 
+}
+
+.index {
+    background-image: url(img/index-image.jpg);
+    background-size: cover;
+}
+
+.about {
+    background-image: url(img/about-background.jpg);
+    background-size: cover;
+}
+
+.projects {
+    background-image: url(img/projects-image.jpg);
+    background-size: cover;
+}
+
+.contacts {
+    background-image: url(img/contacts-image.jpg);
+    background-size: cover;
+}
+
+.h1_about {
+    color: yellow;
+    text-align: center;
+    text-shadow: 5px;
+    font-style: italic;
+}
+
+.project {
+    color: yellow;
+    text-shadow: 5px 5px green;
+    text-align: center;
+}
