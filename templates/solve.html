@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Дискриминант</title>
+</head>
+<body>
+<h1>Дискриминант</h1>
+
+    {% if dis<0 %}
+    <p>Решений нет</p>
+    {% elif dis>0  %}
+    <p>{{ (-b + (math.sqrt(d)) / (2 * a)) }}</p>
+    <p>{{ (-b - (math.sqrt(d)) / (2 * a)) }}</p>
+    {% elif dis==0 %}
+    <p>{{ -b / 2 * a }}</p>
+
+
+    {% endif %}
+
+</body>
+</html>

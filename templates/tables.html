@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css') }}">
+    <title>Tables</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th class="tab">Город</th>
+        <th class="tab">Численность</th>
+    </tr>
+{% for i in slovar %}
+<tr>
+    <td class="tab>"> {{ i }}</td>
+    <td class="tab"> {{ slovar[i] }}</td>
+</tr>
+
+
+
+
+
+
+
+{% endfor %}
+</table>
+
+</body>
+</html>
