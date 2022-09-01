@@ -1,24 +1,16 @@
-import json
-import csv
 import re
-
 import requests
 from bs4 import BeautifulSoup
-import json, urllib
+
 
 class parceListArea:
     def __init__(self, typeCity):
         self.typeCity = typeCity
-        # super().__init__()
-        # self.pathUrlToClassArea()
-        # self.citiSmall()
 
     def printUrl(self):
         print(self.typeCity)
 
     def pathUrlToClassArea(self):
-
-        # url = self.url
         try:
             request = requests.get('https://города-россия.рф')
             soup = BeautifulSoup(request.text, 'lxml')
@@ -51,144 +43,39 @@ class parceListArea:
                 print('Нет совпадений')
         try:
             if self.typeCity == 'small':
+                www = small
+            if self.typeCity == 'medium':
+                www = medium
+            if self.typeCity == 'big':
+                www = big
+            if self.typeCity == 'large':
+                www = large
+            if self.typeCity == 'largest':
+                www = largest
+            if self.typeCity == 'millioners':
+                www = millioners
 
-                request2 = requests.get(small)
-                soup2 = BeautifulSoup(request2.text, 'lxml')
-                find_li2 = soup2.findAll('li')
-                slovar2 = {}
-                for i in find_li2:
-                    citi = str(i.find('strong')).rstrip()
-                    # citi_test = str(citi.('Канаш')).rstrip()
-                    area = str(i.find('span')).rstrip()
-                    # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    no_tags_citi = tag_re.sub('', citi)
-                    no_tags_area = tag_re.sub('', area)
-                    if no_tags_citi == 'None':
-                        no_tags_citi = ''
-                    else:
-                        slovar2.update({no_tags_citi: no_tags_area})
-                    # print(no_tags_area)
-                return slovar2
+            request2 = requests.get(www)
+            soup2 = BeautifulSoup(request2.text, 'lxml')
+            find_li2 = soup2.findAll('li')
+            slovar2 = {}
+            for i in find_li2:
+                citi = str(i.find('strong')).rstrip()
+                # citi_test = str(citi.('Канаш')).rstrip()
+                area = str(i.find('span')).rstrip()
+                # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
+                tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
+                no_tags_citi = tag_re.sub('', citi)
+                no_tags_area = tag_re.sub('', area)
+                if no_tags_citi == 'None':
+                    no_tags_citi = ''
+                else:
+                    slovar2.update({no_tags_citi: no_tags_area})
+                    # print(slovar2)
+            return slovar2
         except:
             return 'сайт не отвечает'
-
-        if self.typeCity == 'medium':
-            try:
-                request2 = requests.get(medium)
-                soup2 = BeautifulSoup(request2.text, 'lxml')
-                find_li2 = soup2.findAll('li')
-                slovar2 = {}
-                for i in find_li2:
-                    citi = str(i.find('strong')).rstrip()
-                    # citi_test = str(citi.('Канаш')).rstrip()
-                    area = str(i.find('span')).rstrip()
-                    # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    no_tags_citi = tag_re.sub('', citi)
-                    no_tags_area = tag_re.sub('', area)
-                    if no_tags_citi == 'None':
-                        no_tags_citi = ''
-                    else:
-                        slovar2.update({no_tags_citi: no_tags_area})
-                    # print(no_tags_area)
-                return slovar2
-            except:
-                return 'Сайт не отвечает'
-
-        if self.typeCity == 'big':
-            try:
-                request2 = requests.get(big)
-                soup2 = BeautifulSoup(request2.text, 'lxml')
-                find_li2 = soup2.findAll('li')
-                slovar2 = {}
-                for i in find_li2:
-                    citi = str(i.find('strong')).rstrip()
-                    # citi_test = str(citi.('Канаш')).rstrip()
-                    area = str(i.find('span')).rstrip()
-                    # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    no_tags_citi = tag_re.sub('', citi)
-                    no_tags_area = tag_re.sub('', area)
-                    if no_tags_citi == 'None':
-                        no_tags_citi = ''
-                    else:
-                        slovar2.update({no_tags_citi: no_tags_area})
-                    # print(no_tags_area)
-                return slovar2
-            except:
-                return 'Сайт не отвечает'
-
-        if self.typeCity == 'large':
-            try:
-                request2 = requests.get(large)
-                soup2 = BeautifulSoup(request2.text, 'lxml')
-                find_li2 = soup2.findAll('li')
-                slovar2 = {}
-                for i in find_li2:
-                    citi = str(i.find('strong')).rstrip()
-                    # citi_test = str(citi.('Канаш')).rstrip()
-                    area = str(i.find('span')).rstrip()
-                    # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    no_tags_citi = tag_re.sub('', citi)
-                    no_tags_area = tag_re.sub('', area)
-                    if no_tags_citi == 'None':
-                        no_tags_citi = ''
-                    else:
-                        slovar2.update({no_tags_citi: no_tags_area})
-                    # print(no_tags_area)
-                return slovar2
-            except:
-                return 'Сайт не отвечает'
-
-        if self.typeCity == 'largest':
-            try:
-                request2 = requests.get(largest)
-                soup2 = BeautifulSoup(request2.text, 'lxml')
-                find_li2 = soup2.findAll('li')
-                slovar2 = {}
-                for i in find_li2:
-                    citi = str(i.find('strong')).rstrip()
-                    # citi_test = str(citi.('Канаш')).rstrip()
-                    area = str(i.find('span')).rstrip()
-                    # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    no_tags_citi = tag_re.sub('', citi)
-                    no_tags_area = tag_re.sub('', area)
-                    if no_tags_citi == 'None':
-                        no_tags_citi = ''
-                    else:
-                        slovar2.update({no_tags_citi: no_tags_area})
-                    # print(no_tags_area)
-                return slovar2
-            except:
-                return 'Сайт не отвечает'
-
-        if self.typeCity == 'millioners':
-            try:
-                request2 = requests.get(millioners)
-                soup2 = BeautifulSoup(request2.text, 'lxml')
-                find_li2 = soup2.findAll('li')
-                slovar2 = {}
-                for i in find_li2:
-                    citi = str(i.find('strong')).rstrip()
-                    # citi_test = str(citi.('Канаш')).rstrip()
-                    area = str(i.find('span')).rstrip()
-                    # tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-                    no_tags_citi = tag_re.sub('', citi)
-                    no_tags_area = tag_re.sub('', area)
-                    if no_tags_citi == 'None':
-                        no_tags_citi = ''
-                    else:
-                        slovar2.update({no_tags_citi: no_tags_area})
-                    # print(no_tags_area)
-                return slovar2
-            except:
-                return 'Сайт не отвечает'
 
 # st = parceListArea('small')
 # # st.printUrl()
 # print(st.pathUrlToClassArea())
-
