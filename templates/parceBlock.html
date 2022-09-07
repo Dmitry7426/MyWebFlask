@@ -1,0 +1,32 @@
+{% extends 'baseparce.html' %}
+
+{% block logic %}
+
+<div class="container area">
+    <div class="list-group row">
+<table class="table table-striped table-bordered table-hover table-responsive">
+    <thead>
+        <tr>
+            <th >Город(область)</th>
+            <th >Численность</th>
+        </tr>
+    </thead>
+    <tbody>
+
+{% for key in slovar %}
+<tr>
+    <td class="col-3">{{ key }}</td>
+    <td class="col-3"> {{ slovar[key] }}</td>
+</tr>
+
+{% endfor %}
+
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+{% endblock %}
+
+

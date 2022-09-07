@@ -64,9 +64,12 @@ def parceinfile():
     return render_template('parceInFile.html')
 
 
+
+
 @app.route('/parce/small')
 def parcesmall():
     st = classParce.parceListArea('small')
+    print(st)
     slovar = (st.pathUrlToClassArea())
     return render_template('parceSmall.html', slovar=slovar)
 
@@ -153,6 +156,45 @@ def parceinfilemillioners():
     slovar = st.readFile()
     return render_template('parceSmallInFile.html', slovar=slovar)
 
+@app.route('/parceblock')
+def parceblock():
+    return render_template('baseparce.html')
+
+@app.route('/parce/parceblocksmall')
+def parceblocksmall():
+    st = classParce.parceListArea('small')
+    slovar = (st.pathUrlToClassArea())
+    return render_template('parceBlock.html', slovar=slovar)
+
+@app.route('/parce/parceblockmedium')
+def parceblockmedium():
+    st = classParce.parceListArea('medium')
+    slovar = (st.pathUrlToClassArea())
+    return render_template('parceBlock.html', slovar=slovar)
+
+@app.route('/parce/parceblockbig')
+def parceblockbig():
+    st = classParce.parceListArea('big')
+    slovar = (st.pathUrlToClassArea())
+    return render_template('parceBlock.html', slovar=slovar)
+
+@app.route('/parce/parceblocklarge')
+def parceblocklarge():
+    st = classParce.parceListArea('large')
+    slovar = (st.pathUrlToClassArea())
+    return render_template('parceBlock.html', slovar=slovar)
+
+@app.route('/parce/parceblocklargest')
+def parceblocklargest():
+    st = classParce.parceListArea('largest')
+    slovar = (st.pathUrlToClassArea())
+    return render_template('parceBlock.html', slovar=slovar)
+
+@app.route('/parce/parceblockmillioners')
+def parceblockmillioners():
+    st = classParce.parceListArea('millioners')
+    slovar = (st.pathUrlToClassArea())
+    return render_template('parceBlock.html', slovar=slovar)
 
 if __name__ == '__main__':
     app.run()
