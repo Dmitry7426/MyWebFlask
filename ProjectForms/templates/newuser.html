@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Моя страница About
+{% endblock %}
+
+{% block content %}
+
+<form action="" method="post">
+    {{ form.csrf_token() }}
+    {% for field in form if field.name != "csrf_token" %}
+    <div class="form-label">
+        {{ field.label() }}
+    </div>
+    <div class="form-item">
+        {{ field }}
+        {% for error in field.errors %}
+        <div class="form-error">
+            {{ error }}
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</form>
+
+{% endblock %}

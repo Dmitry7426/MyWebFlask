@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css') }}">
+
+    <title>
+    {% block title %}
+    {% endblock %}
+    </title>
+</head>
+<body>
+
+
+{% block menu %}
+
+<div class="header">
+        <div class="logo"></div>
+
+        <ul class="menu">
+            <li><a href="/">Главная</a></li>
+
+
+            <li class="drop-vis"><a href="#" class="drop-vis">Пользователи</a>
+                <ul class="drop-inside">
+                    <li><a href="/users" id="name" onClick="reply_click(this.id)">Сортировка: по имени</a></li>
+                    <li><a href="#" id="link2" onClick="reply_click(this.id)">Сортировка: по фамилии</a></li>
+                    <li><a href="#" id="link3" onClick="reply_click(this.id)">Сортировка: по емайл</a></li>
+                </ul>
+            </li>
+            <li><a href="/newuser">Добавить пользователя</a></li>
+            <li><a href="#">Контакты</a></li>
+        </ul>
+    </div>
+
+{% endblock %}
+<div>
+    {{ www }}
+</div>
+
+<div class="container">
+    {% block content %}
+
+    {% endblock %}
+</div>
+
+
+
+
+</body>
+<script type="text/javascript">
+<!--    function reply_click(clicked_id)-->
+<!--    {-->
+<!--    alert(clicked_id)-->
+<!--    var www=clicked_id-->
+<!--&lt;!&ndash;    alert(www)&ndash;&gt;-->
+<!--    return www;-->
+    }
+    document.addEventListener("click", function (e)
+    {
+    alert(e.target.innerText = 'name');
+    www = e.target.innerText = 'name'
+    });
+
+</script>
+</html>

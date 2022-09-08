@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    background: #EDD3D2;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    background: #AEC293;
+    border-radius: 50%;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.menu li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+.item {
+    color: #AEC293;
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.marked {
+    color: red;
+}
+
+.not-marked {
+    color: #AEC293;
+}
+
+.dropdown-toggle {
+    color: blue;
+}
+
+.drop-inside {
+    display: none;
+}
+
+.drop-vis:hover .drop-inside {
+    display: block;
+    position: relative;
+}
+
+
+
