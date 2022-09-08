@@ -23,9 +23,10 @@
 
             <li class="drop-vis"><a href="#" class="drop-vis">Пользователи</a>
                 <ul class="drop-inside">
-                    <li><a href="/users" id="name" onClick="reply_click(this.id)">Сортировка: по имени</a></li>
-                    <li><a href="#" id="link2" onClick="reply_click(this.id)">Сортировка: по фамилии</a></li>
-                    <li><a href="#" id="link3" onClick="reply_click(this.id)">Сортировка: по емайл</a></li>
+                    <li><a href="/sortnameusers" >Сортировка: по имени</a></li>
+                    <li><a href="/sortsurnameusers" >Сортировка: по фамилии</a></li>
+                    <li><a href="/sortemailusers" >Сортировка: по емайл</a></li>
+                    <li><a href="/sortageusers" >Сортировка: по возрасту</a></li>
                 </ul>
             </li>
             <li><a href="/newuser">Добавить пользователя</a></li>
@@ -44,23 +45,26 @@
     {% endblock %}
 </div>
 
+{% block tables %}
 
+{% endblock %}
 
 
 </body>
-<script type="text/javascript">
-<!--    function reply_click(clicked_id)-->
-<!--    {-->
-<!--    alert(clicked_id)-->
-<!--    var www=clicked_id-->
-<!--&lt;!&ndash;    alert(www)&ndash;&gt;-->
-<!--    return www;-->
-    }
-    document.addEventListener("click", function (e)
-    {
-    alert(e.target.innerText = 'name');
-    www = e.target.innerText = 'name'
-    });
+<!--<script type="text/javascript">-->
 
-</script>
+<!--    document.addEventListenerById("click", function (e)-->
+<!--    {-->
+<!--    alert(e.target.innerText = 'name');-->
+
+
+<!--    let div = document.createElement('div');-->
+
+<!--    div.innerHTML = "<strong>e.target.innerText = 'name'</strong> Вы прочитали важное сообщение.";-->
+
+<!--    document.body.append(div);-->
+<!--    });-->
+
+<!--</script>-->
+
 </html>

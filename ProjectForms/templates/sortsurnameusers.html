@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Сортировка по имени
+{% endblock %}
+
+
+{% block content %}
+
+<table>
+    <tr>
+        <th>Имя</th>
+        <th>Фамилия</th>
+        <th>Возраст</th>
+        <th>Пароль</th>
+        <th>Email</th>
+    </tr>
+    {% for field in users|sort(attribute='surname') %}
+
+    <tr>
+        <td>{{ field.name }}</td>
+        <td>{{ field.surname }}</td>
+        <td>{{ field.age }}</td>
+        <td>{{ field.password}}</td>
+        <td>{{ field.email }}</td>
+    </tr>
+
+    {% endfor %}
+
+</table>
+
+
+{% endblock %}
