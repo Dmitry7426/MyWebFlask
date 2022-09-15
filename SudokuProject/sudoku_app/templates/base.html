@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <link rel="stylesheet" href="{{url_for('static', filename='style.css') }}">
+    <title>Title</title>
+</head>
+
+<form class="forms" method="post" action="">
+    {% for i in range(9) %}
+    <tr>
+        {% for j in range(9) %}
+        <td>
+            {% if arr[i][j] == 0 %}
+                <input class="sud" name="{{ i }}{{ j }}" value=" " type="number" min="1" max="9" }}>
+            {% else %}
+                <input class="sud" type="text" name="{{ i }}{{ j }}" value={{ arr[i][j] }}>
+            {% endif %}
+        </td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+
+<input class="button" type="submit" name="submit" value="Отправить">
+</form>
+
+<body>
+
+</body>
+</html>

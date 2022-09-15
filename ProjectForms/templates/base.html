@@ -23,13 +23,13 @@
 
             <li class="drop-vis"><a href="#" class="drop-vis">Пользователи</a>
                 <ul class="drop-inside">
-                    <li><a href="/sortnameusers" >Сортировка: по имени</a></li>
+                    <li><a href="/sortnameusers" id="click" >Сортировка: по имени</a></li>
                     <li><a href="/sortsurnameusers" >Сортировка: по фамилии</a></li>
                     <li><a href="/sortemailusers" >Сортировка: по емайл</a></li>
                     <li><a href="/sortageusers" >Сортировка: по возрасту</a></li>
                 </ul>
             </li>
-            <li><a href="/newuser">Добавить пользователя</a></li>
+            <li><a href="/newuser" >Добавить пользователя</a></li>
             <li><a href="#">Контакты</a></li>
         </ul>
     </div>
@@ -40,6 +40,7 @@
 </div>
 
 <div class="container">
+    <p><span id="x"></span></p>
     {% block content %}
 
     {% endblock %}
@@ -51,20 +52,20 @@
 
 
 </body>
-<!--<script type="text/javascript">-->
+<script type="text/javascript">
 
-<!--    document.addEventListenerById("click", function (e)-->
-<!--    {-->
-<!--    alert(e.target.innerText = 'name');-->
-
-
+    document.addEventListenerById("click", function (e)
+    {
+    var x = (e.target.innerText = 'name');
+    document.getElementById('x').innerHTML = x;
+    alert(x);
 <!--    let div = document.createElement('div');-->
 
 <!--    div.innerHTML = "<strong>e.target.innerText = 'name'</strong> Вы прочитали важное сообщение.";-->
 
 <!--    document.body.append(div);-->
-<!--    });-->
+    });
 
-<!--</script>-->
+</script>
 
 </html>

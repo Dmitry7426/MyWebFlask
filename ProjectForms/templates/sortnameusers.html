@@ -6,7 +6,7 @@
 
 
 {% block content %}
-
+<p><span id="x"></span></p>
 <table>
     <tr>
         <th>Имя</th>
@@ -28,6 +28,12 @@
     {% endfor %}
 
 </table>
+<script>
+    document.addEventListenerById("click", function (e)
+    {
+    var x = (e.target.innerText = 'name');
 
+    document.getElementById('x').innerHTML = x;
+</script>
 
 {% endblock %}
