@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+.blockmenu {
+    background: #66CDAA;
+    font-size: 20px;
+}
+
+.form-group {
+
+    height: 150px;
+    width: 500px;
+}
+
+.forms {
+    display: block;
+    height: 200px;
+    width: 600px;
+    margin: 0 auto;
+}
+.textblockblog {
+    height: 100px;
+    width: 100px;
+}
+.cont {
+    display: inline-block;
+    text-align: center;
+}

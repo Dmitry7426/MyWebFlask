@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block menu %}
+{% endblock %}
+
+{% block lastusers %}
+{% endblock %}
+
+{% block content %}
+<h1>Новый блог</h1>
+
+{% block contentblog %}
+
+{% endblock %}
+{{ res }}
+<!--{{ nblog }}-->
+<div class="forms">
+<form action="" method="post">
+  <div class="form-group">
+    <label>Автор поста</label>
+    <input type="text"  class="form-control" id="author" name="author" placeholder="Введите имя автора поста">
+<!--    <small id="nameHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+
+    <label>Ваш ник</label>
+    <input type="text"  class="form-control" id="nikname" name="nikname" placeholder="Введите имя автора поста">
+    {% if res == 0 %}
+      <h7></h7>
+    {% else %}
+      <h7 style="color: red;">{{ res }}</h7>
+    {% endif %}
+    <!--    <small id="nameHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+  </div>
+  <div class="form-group">
+    <label >О чем блог?</label>
+    <input type="text" class="form-control" id="brieflyBlock" name="brieflyBlock" placeholder="Заголовок поста">
+<!--    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>-->
+  </div>
+  <div class="form-group">
+    <label>Содержимое блога</label>
+      <textarea  type="text" class="form-control textblockblog" id="textPost" name="textPost" placeholder="Текст поста"></textarea>
+<!--    <input type="text" class="form-control textblockblog" id="textPost" name="textPost" placeholder="Текст поста">-->
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
+
+{% endblock %}
+
+{{ nblog }}

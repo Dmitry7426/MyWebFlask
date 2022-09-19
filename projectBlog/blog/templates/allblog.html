@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block menu %}
+{% endblock %}
+
+{% block contentblog %}
+{% endblock %}
+
+{% block lastusers %}
+{% endblock %}
+
+{% block content %}
+<h1>Наши блоги</h1>
+
+{% block tabl %}
+
+{% for i in blogs %}
+
+<div class="cont">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">{{ i.author }}</h5>
+                    <p class="card-text">{{ i.briefblog }}</p>
+                    <p class="card-text">{{ i.textpost }}</p>
+                    <a href="#" class="btn btn-primary">Переход куда-нибудь</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endfor %}
+{% endblock %}
+
+{% endblock %}
+
+
+
+
