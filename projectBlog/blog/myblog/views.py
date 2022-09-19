@@ -28,5 +28,11 @@ def newblog():
 def allblog():
 
     allblogs(a)
-    print(a)
+    # print(a)
     return render_template('allblog.html', blogs=a)
+
+@app.route('/post/<int:value>')
+def userpost(value):
+    if value < 0 or value > len(a):
+        return 'Такого поста не существует'
+    return render_template('userpost.html', userpost=a[value - 1])

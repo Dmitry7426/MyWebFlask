@@ -24,7 +24,8 @@
                     <h5 class="card-title">{{ i.author }}</h5>
                     <p class="card-text">{{ i.briefblog }}</p>
                     <p class="card-text">{{ i.textpost }}</p>
-                    <a href="#" class="btn btn-primary">Переход куда-нибудь</a>
+                    <a href="/post/{{loop.index}}" name="{{i.author}}" class="btn btn-primary">Переход куда-нибудь</a>
+<!--                    <a href="/post/{{i.author}}" name="{{i.author}}" class="btn btn-primary">Переход куда-нибудь</a>-->
                 </div>
             </div>
         </div>
@@ -32,6 +33,7 @@
 </div>
 
 {% endfor %}
+
 {% endblock %}
 
 {% endblock %}

@@ -36,3 +36,6 @@ def lastblogs(a):
         last = w[-3:]
 
     return last
+
+def userblog():
+    pass
