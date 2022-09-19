@@ -27,6 +27,7 @@ def allblogs(a):
 
 def lastblogs(a):
     w = []
+    last = ''
     if len(a) == 0:
         w.append('Пока что нет ни кого кто опубликовал бы пост....')
     else:
