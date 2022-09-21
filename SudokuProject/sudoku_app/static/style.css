@@ -1,29 +1,55 @@
-.grid {
-    border-collapse: collapse;
-    border: black 1px solid;
-    margin: 0 auto;
-    margin-top: 50px;
-}
 
-tr, td {
-    border-collapse: collapse;
-    border: black 1px solid;
-    padding: 15px;
-}
 .sud {
     margin: 0 auto;
     width: 35px;
     height: 35px;
-
+    text-align: center;
 }
+
 .forms {
     height: 450px;
     width: 450px;
     margin: 0 auto;
     text-align: center;
+    color: red;
 }
 
 .button {
+    padding: 5px;
     margin: 0 auto;
     display: block;
+    margin-top: 40px;
+}
+
+.button:hover {
+    background: green;
+}
+
+table {
+    border-collapse: collapse;
+    background: gold;
+}
+
+table:nth-child(3n+1) {
+    border-top: green 4px solid;
+}
+
+table:nth-child(9) {
+    border-bottom: green 4px solid;
+}
+
+
+td:nth-child(3n){
+    border-right: green 4px solid;
+}
+
+td:nth-child(1){
+    border-left: green 4px solid;
+}
+
+h1 {
+    color: darkblue;
+    text-shadow: 2px 2px 2px yellow;
+    font-style: oblique;
+    text-align: center;
 }

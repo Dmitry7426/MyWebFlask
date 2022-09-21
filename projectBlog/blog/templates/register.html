@@ -10,30 +10,37 @@
 {% endblock %}
 
 {% block content %}
-<h1>Наши блоги</h1>
+<h1>Регистрация нового пользователя</h1>
 
 {% block tabl %}
 
-{% for i in blogs %}
-
-<div class="cont">
-    <div class="row">
-        <div class="col">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">{{ i.author }}</h5>
-                    <p class="card-text">{{ i.briefblog }}</p>
-                    <p class="card-text">{{ i.textpost }}</p>
-                    <a href="/post/{{loop.index}}" name="{{i.author}}" class="btn btn-primary">Переход куда-нибудь</a>
-<!--                    <a href="/post/{{i.author}}" name="{{i.author}}" class="btn btn-primary">Переход куда-нибудь</a>-->
-                </div>
-            </div>
-        </div>
+<div class="formregister">
+<form action="" method="post">
+  <div class="form-row">
+    <div class="col-md-4 mb-3">
+      <label for="validationDefault01">Имя</label>
+      <input type="text" class="form-control" id="validationDefault01" name="author" value="Ваше имя" required>
     </div>
+    <div class="col-md-4 mb-3">
+      <label for="validationDefault02">Ник</label>
+      <input type="text" class="form-control" id="validationDefault02" name="nikname" value="Ваш ник" required>
+    </div>
+
+  <div class="form-group">
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="invalidCheck2" required>
+      <label class="form-check-label" for="invalidCheck2">
+        Agree to terms and conditions
+      </label>
+    </div>
+  </div>
+    <div class="btnregister col-8" >
+  <button class="btn btn-primary" type="submit">Submit</button>
+      </div>
+    </div>
+</form>
+
 </div>
-
-{% endfor %}
-
 {% endblock %}
 
 {% endblock %}

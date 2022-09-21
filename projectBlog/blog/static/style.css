@@ -26,3 +26,14 @@ body {
     display: inline-block;
     text-align: center;
 }
+
+.formregister {
+    display: block;
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+}
+.btnregister {
+    display: block;
+    text-align: center;
+}

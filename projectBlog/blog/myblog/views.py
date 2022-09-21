@@ -36,3 +36,13 @@ def userpost(value):
     if value < 0 or value > len(a):
         return 'Такого поста не существует'
     return render_template('userpost.html', userpost=a[value - 1])
+
+@app.route('/post/register', methods=['GET', 'POST'])
+def register():
+    if request.method == 'POST':
+        author = request.form.get('author')
+        nikname = request.form.get('nikname')
+        briefblock = request.form.get('brieflyBlock')
+        textblock = request.form.get('textPost')
+        a.append(Allbl(author, nikname, briefblock, textblock))
+    return render_template('register.html', nblog=nblog(a), res=duplicates(a))
