@@ -5,6 +5,7 @@
      <link rel="stylesheet" href="{{url_for('static', filename='style.css') }}">
     <title>Title</title>
 </head>
+<body>
 <h1>Игра Sudoku</h1>
 <form class="forms" method="post" action="">
     {% for i in range(9) %}
@@ -13,9 +14,9 @@
         {% for j in range(9) %}
         <td class="mycols">
             {% if arr[i][j] == 0 %}
-                <input class="sud" name="{{ i }}{{ j }}" value=" " type="number" min="1" max="9" }}>
+                <input class="sud" name="{{ i }}{{ j }}" type="number" min="1" max="9" }}>
             {% else %}
-                <input class="sud" type="text" name="{{ i }}{{ j }}" value={{ arr[i][j] }}>
+                <input class="sud" name="{{ i }}{{ j }}" value={{ arr[i][j] }}>
             {% endif %}
         </td>
         {% endfor %}
@@ -24,15 +25,6 @@
 </table>
 <input class="button" type="submit" name="submit" value="Отправить">
 </form>
-{% if result == 0 %}
-<h1>что то пошло не так</h1>
-{% else %}
-<h1> {{ result }} </h1>
-{% endif %}
-
-
-
-<body>
 
 </body>
 </html>

@@ -15,11 +15,15 @@ arr = [[2, 2, 3, 4, 2, 3, 2, 7, 0],[0, 9, 2, 2, 3, 4, 5, 2, 1],
 
 # st = Sudoku(arr)
 
-def sudokuapp():
-    if testNul():
-        return True
-    else:
-        return testNul()
+def sudokuapp(a):
+    print(a)
+    # if testNul():
+    #     print(arr)
+    #
+    #     return True
+    # else:
+    #     print(arr)
+    #     return testNul()
 
 def testRow():
     w = [1, 2, 3]

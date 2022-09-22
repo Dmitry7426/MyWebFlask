@@ -9,9 +9,6 @@ def index():
     if request.method == 'post':
         for i in range(9):
             for j in range(9):
-
-                arr[i][j] = request.form.get(str(i) + str(j))
-        # print(arr)
-        print(sudokuapp(arr))
-
-    return render_template('base.html', arr=arr, result=sudokuapp())
+                arr[i][j] = int(request.form.get(str(i) + str(j)))
+    sudokuapp(arr)
+    return render_template('base.html', arr=arr)
