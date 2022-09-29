@@ -10,6 +10,7 @@ a = []
 @app.route('/', methods=['GET', 'POST'])
 def index():
     allblogs(a)
+
     return render_template('base.html', test=start(), blogs=a, last=lastblogs(a))
 
 @app.route('/newblog', methods=['GET', 'POST'])

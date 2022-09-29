@@ -4,6 +4,7 @@ body {
 .blockmenu {
     background: #66CDAA;
     font-size: 20px;
+
 }
 
 .form-group {
@@ -36,4 +37,19 @@ body {
 .btnregister {
     display: block;
     text-align: center;
+}
+
+.blogs {
+
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+    border: 2px black solid;
+    height: auto;
+    width: 500px;
+    list-style: none;
+}
+
+.arrow {
+    list-style: url('./arrow.svg');
 }

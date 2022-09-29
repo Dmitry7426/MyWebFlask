@@ -20,31 +20,35 @@
             <a class="nav-link" href="/newblog">Добавить пост</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Регистрация</a>
+            <a class="nav-link" href="post/register">Регистрация</a>
         </li>
     </ul>
 
 </div>
 <!--{{ last }}-->
 {% block lastusers %}
+
+{% if last|length <= 0 %}
+<h1>К сожалению пока ни кто не оставил ни одного поста</h1>
+{% else %}
 <h1>Последние пользователи опубликовавшие блоги</h1>
 {% for i in last %}
-
 <div class="cont">
     <div class="row">
         <div class="col">
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">{{ i }}</h5>
-                     <a href="/post/{{loop.index}}" name="{{i.author}}" class="btn btn-primary">Переход куда-нибудь</a>
+                     <a href="/post/{{loop.index}}" name="{{i.author}}" class="btn btn-primary">Прочитать</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-{% endfor %}
 
+{% endfor %}
+{% endif %}
 {% endblock %}
 
 {% block content %}

@@ -16,7 +16,7 @@
             {% if arr[i][j] == 0 %}
                 <input class="sud" name="{{ i }}{{ j }}" type="number" min="1" max="9" }}>
             {% else %}
-                <input class="sud" name="{{ i }}{{ j }}" value={{ arr[i][j] }}>
+                <input class="sud" name="{{ i }}{{ j }}" type="number" value="{{ arr[i][j] }}">
             {% endif %}
         </td>
         {% endfor %}

@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends "base.html" %}
 
+{% block menu %}
+{% endblock %}
 
-{{ userpost.author }}
-{{ userpost.nikname }}
-{{ userpost.briefblog }}
-{{ userpost.textpost }}
+{% block contentblog %}
+{% endblock %}
 
+{% block lastusers %}
+{% endblock %}
 
-</body>
-</html>
+{% block content %}
+<ul class="blogs">
+    <li class="arrow">{{ userpost.author }}</li>
+    <li class="arrow">{{ userpost.nikname }}</li>
+    <li class="arrow">{{ userpost.briefblog }}</li>
+    <li class="arrow">{{ userpost.textpost }}</li>
+</ul>
+{% endblock %}
