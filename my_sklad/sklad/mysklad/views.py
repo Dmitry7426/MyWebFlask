@@ -12,6 +12,7 @@ def index():
     # names = readname.AdminTable.query.filter_by(name='Дмитрий')
     names = sklad.AdminTable.query.filter_by(name='Дмитрий').first()
     names2 = Tests.my(15)
+    print(names2)
     return render_template('base.html', names=names, names2=names2)
 
 @app.route('/register', methods=['GET','POST'])
@@ -33,15 +34,19 @@ def register_adm():
 def autorize():
     form = AutorizeAdmin(request.form)
 
+    if request.method == 'GET':
+        message = ''
+        flash(message)
+
     if request.method == 'POST':
 
         username = request.form.get('username')
         password = request.form.get('password')
 
         if username in admlogin and password in admlogin:
-            wait_time = 3000
-            seconds = wait_time / 1000
-            redirect_url = '/index'
+            # wait_time = 3000
+            # seconds = wait_time / 1000
+            # redirect_url = '/index'
 
             session['username'] = request.form['username']
             message = Markup("<h1>Отлично! Вы авторизовались!</h1>")
@@ -49,12 +54,14 @@ def autorize():
             if 'username' in session:
                 user = session['username']
                 print(user)
-            return f"<html><body><p>You will be redirected in { seconds } seconds</p>" \
-                   f"<script>var timer = setTimeout(function() {{window.location='{ redirect_url }'}}, { wait_time });</script></body></html>"
+            # return f"<html><body><p>You will be redirected in { seconds } seconds</p>" \
+            #        f"<script>var timer = setTimeout(function() {{window.location='{ redirect_url }'}}, { wait_time });</script></body></html>"
 
         else:
             message = Markup("<h1>Не верный логин или пароль! Попробуйте еще раз!</h1>")
             flash(message)
+            message_aut = Markup('<a href="register">Я хочу зарегистрироваться!</a>')
+            flash(message_aut)
 
 
     return render_template('login.html', form=form)
@@ -66,4 +73,4 @@ def redir():
 @app.route('/logout')
 def logout():
     session.pop('username', None)
-    return redirect(url_for('/autorizeadmin'))
+    return redirect('autorize')
