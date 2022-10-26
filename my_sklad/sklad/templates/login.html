@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h4>Введите логин и пароль Суперпользователя</h4>
+<h1>
+
+</h1>
+<form method="post" action="">
+    <label>Логин</label>
+    <input type="text" id="username" name="username">
+    <label>Пароль</label>
+    <input type="password" id="password" name="password">
+    <button type="submit">Submit</button>
+    <button type="submit"><Выйти</button>
+</form>
+<div>
+    {% for message in get_flashed_messages() %}
+        {{ message }}
+    {% endfor %}
+</div>
+
+</body>
+</html>

@@ -1,89 +1,1265 @@
-Таганрог (Ростовская область),Количество жителей 245 580
-Сыктывкар (Республика Коми),Численность населения 243 279
-Нижнекамск (Республика Татарстан),Количество жителей 240 127
-Нальчик (Кабардино-Балкарская Республика),Количество жителей 239 610
-Комсомольск-на-Амуре (Хабаровский край),Количество жителей 239 386
-Шахты (Ростовская область),Количество жителей 226 331
-Дзержинск (Нижегородская область),Численность населения 225 474
-Королев (Московская область),Количество жителей 225 271
-Энгельс (Саратовская область),Количество жителей 225 035
-Благовещенск (Амурская область),Численность населения 224 962
-Великий Новгород (Новгородская область),Численность населения 224 861
-Орск (Оренбургская область),Численность населения 223 305
-Старый Оскол (Белгородская область),Количество жителей 222 593
-Братск (Иркутская область),Количество жителей 222 528
-Ангарск (Иркутская область),Численность населения 219 745
-Люберцы (Московская область),Количество жителей 209 582
-Псков (Псковская область),Численность населения 209 073
-Южно-Сахалинск (Сахалинская область),Количество жителей 201 703
-Бийск (Алтайский край),Численность населения 196 442
-Абакан (Республика Хакасия),Количество жителей 187 111
-Армавир (Краснодарский край),Количество жителей 186 147
-Прокопьевск (Кемеровская область),Количество жителей 184 856
-Балаково (Саратовская область),Численность населения 184 297
-Норильск (Красноярский край),Численность населения 184 124
-Петропавловск-Камчатский (Камчатский край),Численность населения 181 293
-Северодвинск (Архангельская область),Количество жителей 179 742
-Рыбинск (Ярославская область),Численность населения 179 575
-Красногорск (Московская область),Количество жителей 174 908
-Уссурийск (Приморский край),Численность населения 172 032
-Волгодонск (Ростовская область),Количество жителей 168 269
-Новочеркасск (Ростовская область),Количество жителей 163 685
-Сызрань (Самарская область),Количество жителей 162 886
-Каменск-Уральский (Свердловская область),Численность населения 162 553
-Златоуст (Челябинская область),Количество жителей 159 744
-Альметьевск (Республика Татарстан),Численность населения 158 280
-Керчь (Республика Крым),Численность населения 150 892
-Миасс (Челябинская область),Численность населения 150 339
-Электросталь ,Количество жителей 149 136
-Хасавюрт (Республика Дагестан),Численность населения 148 274
-Салават (Республика Башкортостан),Численность населения 147 739
-Пятигорск (Ставропольский край),Численность населения 145 484
-Копейск (Челябинская область),Численность населения 145 023
-Находка (Приморский край),Численность населения 140 176
-Майкоп (Республика Адыгея),Численность населения 139 076
-Одинцово (Московская область),Численность населения 138 891
-Рубцовск (Алтайский край),Численность населения 137 582
-Коломна (Московская область),Численность населения 136 778
-Домодедово (Московская область),Численность населения 136 090
-Березники (Пермский край),Численность населения 134 750
-Каспийск (Республика Дагестан),Численность населения 133 581
-Нефтекамск (Республика Башкортостан),Численность населения 132 679
-Ковров (Владимирская область),Численность населения 132 372
-Щелково (Московская область),Численность населения 128 803
-Нефтеюганск (Ханты-Мансийский автономный округ-Югра),Численность населения 128 685
-Дербент (Республика Дагестан),Численность населения 127 518
-Новочебоксарск (Чувашская республика - Чувашия),Численность населения 127 481
-Кисловодск (Ставропольский край),Численность населения 127 304
-Батайск (Ростовская область),Численность населения 126 779
-Назрань (Республика Ингушетия),Численность населения 125 297
-Серпухов (Московская область),Численность населения 124 998
-Раменское (Московская область),Численность населения 124 964
-Кызыл (Республика Тыва),Численность населения 123 260
-Черкесск (Карачаево-Черкесская Республика),Численность населения 122 579
-Обнинск (Калужская область),Численность населения 121 508
-Новомосковск (Тульская область),Численность населения 120 810
-Долгопрудный (Московская область),Численность населения 120 301
-Новый Уренгой (Ямало-Ненецкий автономный округ),Численность населения 118 667
-Орехово-Зуево (Московская область),Численность населения 117 825
-Первоуральск (Свердловская область),Численность населения 117 673
-Ессентуки (Ставропольский край),Численность населения 117 168
-Невинномысск (Ставропольский край),Численность населения 114 423
-Октябрьский (Республика Башкортостан),Численность населения 114 131
-Димитровград (Ульяновская область),Численность населения 111 093
-Пушкино (Московская область),Численность населения 109 816
-Ноябрьск (Ямало-Ненецкий автономный округ),Численность населения 109 488
-Реутов (Московская область),Численность населения 108 257
-Евпатория (Республика Крым),Численность населения 108 131
-Жуковский (Московская область),Численность населения 107 063
-Камышин (Волгоградская область),Численность населения 106 879
-Ханты-Мансийск (Ханты-Мансийский автономный округ - Югра),Численность населения 105 995
-Северск (Томская область),Численность населения 105 238
-Артем (Приморский край),Численность населения 104 509
-Ачинск (Красноярский край),Численность населения 104 289
-Муром (Владимирская область),Численность населения 104 030
-Бердск (Новосибирская область),Численность населения 103 544
-Элиста (Республика Калмыкия),Численность населения 103 531
-Новошахтинск (Ростовская область),Численность населения 103 433
-Арзамас (Нижегородская область),Численность населения 102 664
-Ногинск ,Численность населения 101 404
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.20838.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.20838.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.20838.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.20838.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.20838.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21066.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21066.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21066.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21066.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21066.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21066.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21090.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Viber                                                                                                           
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21090.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Viber                                                                                                           
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21090.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Viber                                                                                                           
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\Shadrin_GA
+Отправить в OneNote 2013         nul:                        
+Microsoft XPS Document Writer    PORTPROMPT:                 
+Microsoft Print to PDF           PORTPROMPT:                 
+Kyocera ECOSYS M2040dn KX        USB002                      
+Kyocera ECOSYS M2040dn           USB002                      
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                    
+hp LaserJet 1320 PCL 5           DOT4_001                    
+Fax                              SHRFAX:                     
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56         
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21090.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Viber                                                                                                           
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21090.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Viber                                                                                                           
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
+MAKFA\yarin_vn
+Отправить в OneNote 2013         nul:                                                                                  
+OneNote for Windows 10           Microsoft.Office.OneNote_16001.14326.21090.0_x64__8wekyb3d8bbwe_microsoft.onenoteim...
+Microsoft XPS Document Writer    PORTPROMPT:                                                                           
+Microsoft Print to PDF           PORTPROMPT:                                                                           
+Kyocera ECOSYS M2040dn KX        USB002                                                                                
+Kyocera ECOSYS M2040dn           USB002                                                                                
+hp LaserJet 1320 PCL 5 (копия 1) DOT4_001                                                                              
+hp LaserJet 1320 PCL 5           DOT4_001                                                                              
+Fax                              SHRFAX:                                                                               
+Canon MF5900 Series UFRII LT     CNMFNP_8887170B4B56                                                                   
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Dr.Web Anti-virus
+Windows Defender 
+Dr.Web Anti-virus
+Viber                                                                                                           
+Microsoft OneNote MUI (Russian) 2013                                                                            
+Microsoft Office OSM MUI (Russian) 2013                                                                         
+Microsoft Office Standard 2013                                                                                  
+Microsoft Office OSM UX MUI (Russian) 2013                                                                      
+Microsoft Excel MUI (Russian) 2013                                                                              
+Microsoft PowerPoint MUI (Russian) 2013                                                                         
+Microsoft Publisher MUI (Russian) 2013                                                                          
+Microsoft Outlook MUI (Russian) 2013                                                                            
+Microsoft Office 64-bit Components 2013                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2013                                                               
+Microsoft Groove MUI (Russian) 2013                                                                             
+Microsoft Word MUI (Russian) 2013                                                                               
+Microsoft Office Proofing (Russian) 2013                                                                        
+Microsoft Office Shared MUI (Russian) 2013                                                                      
+Засоби перевірки правопису Microsoft Office 2013 – Українська версія                                            
+Microsoft Office Korrekturhilfen 2013 - Deutsch                                                                 
+Microsoft Office Proofing Tools 2013 - English                                                                  
+Средства проверки правописания Microsoft Office 2013 — русский                                                  
+Microsoft Office 64-bit Components 2016                                                                         
+Microsoft Office Shared 64-bit MUI (Russian) 2016                                                               
+Microsoft Skype for Business MUI (Russian) 2016                                                                 
+Microsoft Office Proofing (Russian) 2016                                                                        
+Microsoft Skype for Business Entry 2016                                                                         
+Microsoft Office Shared MUI (Russian) 2016                                                                      
+Засоби перевірки правопису Microsoft Office 2016 – українська                                                   
+Microsoft Office Korrekturhilfen 2016 – Deutsch                                                                 
+Microsoft Office Proofing Tools 2016 - English                                                                  
+Средства проверки правописания Microsoft Office 2016 — русский                                                  
+Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.14.26405                                                     
+Apple Mobile Device Support                                                                                     
+Update for Windows 10 for x64-based Systems (KB4023057)                                                         
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                                                     
+Microsoft Visual C++ 2017 x86 Additional Runtime - 14.14.26405                                                  
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                                                     
+Поддержка программ Apple (64 бит)                                                                               
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)
+1C:Enterprise 8 (8.3.13.1644)                                                                                   
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                                                     
+Apple Software Update                                                                                           
+LiteManager Pro - Server                                                                                        
+Adobe Refresh Manager                                                                                           
+Adobe Acrobat DC (64-bit)                                                                                       
+КриптоПро CSP                                                                                                   
+iTunes                                                                                                          
+Bonjour                                                                                                         
+7-Zip 9.20 (x64 edition)                                                                                        
+1C:Enterprise 8 (8.3.17.1851)                                                                                   
+Kyocera TWAIN Driver                                                                                            
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - RUS                                 
+Microsoft Update Health Tools                                                                                   
+КриптоПро ЭЦП Browser plug-in                                                                                   
+Поддержка программ Apple (32 бит)                                                                               
+Клиентская часть системы DIRECTUM 5.0                                                                           
