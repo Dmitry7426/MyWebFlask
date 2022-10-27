@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>TEST</h1>
+<h1>
+
+</h1>
+<form method="post" action="">
+    <label>Ваша фамилия</label>
+    <input type="text" id="family" name="family">
+    <label>Имя</label>
+    <input type="text" id="name" name="name">
+    <label>Отчество</label>
+    <input type="text" id="midlname" name="midlname">
+    <label>Должность</label>
+    <input type="text" id="pizition" name="pozition">
+    <label>EMail</label>
+    <input type="email" id="mail" name="mail">
+    <label>Придумайте пароль</label>
+    <input type="password" id="password" name="password">
+    <label>Введите еще раз</label>
+    <input type="password" id="confirm_password" name="confirm_password">
+    <button type="submit">Зарегистрироваться</button>
+</form>
+
+<a href="/logout"><button>Вернуться на главную</button></a>
+<div>
+    {% for message in get_flashed_messages() %}
+        {{ message }}
+    {% endfor %}
+</div>
+</body>
+</html>

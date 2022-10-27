@@ -5,6 +5,16 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Перенаправлено!!!!</h1>
+<div>
+    {% for message in get_flashed_messages() %}
+        {{ message }}
+    {% endfor %}
+</div>
+
+<h1>Начальная страница проекта</h1>
+<a href="/register"><button>Регистрация</button></a>
+<a href="/login"><button>Войти</button></a>
+<a href="/logout"><button>Выйти из системы</button></a>
+
 </body>
 </html>
