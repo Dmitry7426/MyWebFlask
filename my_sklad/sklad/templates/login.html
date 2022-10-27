@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extend 'index.html' %}
+
+
+{% block content %}
 <h4>Введите логин и пароль Супер-пользователя</h4>
 <h1>
 
@@ -18,13 +15,12 @@
     <button type="submit" formmethod="get">Выйти</button>
 </form>
 
+{% endblock %}
 
-
+{% block message %}
 <div>
     {% for message in get_flashed_messages() %}
         {{ message }}
     {% endfor %}
 </div>
-
-</body>
-</html>
+{% endblock %}

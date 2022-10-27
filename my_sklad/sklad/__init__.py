@@ -28,12 +28,12 @@ class AdminTable(db.Model):
         self.mail = mail
         self.pwd = pwd
 
-class Vendor(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    vendor = db.Columb(db.String(50))
-
-    def __init__(self, vendor):
-        self.vendor = vendor
+# class Vendor(db.Model):
+#     id = db.Column(db.Integer, primary_key=True)
+#     vendor = db.Columb(db.String(50))
+#
+#     def __init__(self, vendor):
+#         self.vendor = vendor
 
 
 with app.app_context():

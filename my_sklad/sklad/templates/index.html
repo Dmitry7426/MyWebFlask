@@ -1,20 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
+<html lang="ru">
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Демо Bootstrap</title>
+     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  </head>
 <body>
+{% block message %}
 <div>
     {% for message in get_flashed_messages() %}
         {{ message }}
     {% endfor %}
 </div>
+{% endblock %}
 
-<h1>Начальная страница проекта</h1>
-<a href="/register"><button>Регистрация</button></a>
-<a href="/login"><button>Войти</button></a>
-<a href="/logout"><button>Выйти из системы</button></a>
+{% block menu %}
+<div class="block_menu">
+    <div >
+        <a class="navbar-brand" href="#">
+            <img  class="img_index" src="static\img\kolibry.png" alt="" width="100" height="80" >
+        </a>
 
+<div class="btn-group">
+    <a class="dropdown-item" href="/index">
+        <button type="button" class="btn btn-primary" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+    На главную
+    </button>
+    </a>
+</div>
+
+<div class="btn-group">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+    Авторизация
+  </button>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/register">Регистрация</a></li>
+    <li><a class="dropdown-item" href="/login">Войти</a></li>
+    <li><a class="dropdown-item" href="/logout">Выйти из системы</a></li>
+  </ul>
+</div>
+
+<div class="btn-group">
+
+    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+    Авторизация 2
+  </button>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="/register">Регистрация</a></li>
+    <li><a class="dropdown-item" href="/login">Войти</a></li>
+    <li><a class="dropdown-item" href="/logout">Выйти из системы</a></li>
+  </ul>
+</div>
+
+        </div>
+</div>
+
+{% endblock %}
+
+{% block content %}
+
+<div class="bac">
+
+</div>
+
+{% endblock %}
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 </html>

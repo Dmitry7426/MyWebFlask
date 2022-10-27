@@ -1,29 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<h4>Введите логин и пароль</h4>
-<h1>
+{% extends 'index.html' %}
 
-</h1>
-<form method="post" action="{{ url_for('login') }}">
-    <label>Логин</label>
-    <input type="text" id="username" name="username">
-    <label>Пароль</label>
-    <input type="password" id="password" name="password">
-    <button type="submit">Войти</button>
+
+{% block content %}
+<div class="form">
+<form class="form_input_user" method="post" action="{{ url_for('login') }}">
+    <h4>Введите логин и пароль</h4>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Адрес электронной почты</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="username">
+    <div id="emailHelp" class="form-text">Мы никогда никому не передадим вашу электронную почту.</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Пароль</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" name="password">
+  </div>
+    <button type="submit" class="btn btn-primary">Отправить</button>
 </form>
-<a href="/logout"><button>Выйти из системы</button></a>
-<a href="/"><button>Вернуться на главную</button></a>
-
-<div>
-    {% for message in get_flashed_messages() %}
-        {{ message }}
-    {% endfor %}
 </div>
 
-</body>
-</html>
+
+
+{% endblock %}
+
+
