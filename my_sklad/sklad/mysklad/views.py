@@ -133,3 +133,5 @@ def redir():
 def logout():
     session.pop('username', None)
     return redirect('index')
+
+# просто добавил строчку
