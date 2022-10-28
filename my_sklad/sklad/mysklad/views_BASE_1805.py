@@ -133,7 +133,3 @@ def redir():
 def logout():
     session.pop('username', None)
     return redirect('index')
-
-
-# ветка JOBS
-

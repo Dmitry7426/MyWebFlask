@@ -134,6 +134,9 @@ def logout():
     session.pop('username', None)
     return redirect('index')
 
+<<<<<<< HEAD
+# просто добавил строчку
+=======
 
 # ветка JOBS
-
+>>>>>>> jobs
