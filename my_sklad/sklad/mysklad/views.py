@@ -142,5 +142,4 @@ def logout():
     return redirect('index')
 
 
-# ветка JOBS
 
