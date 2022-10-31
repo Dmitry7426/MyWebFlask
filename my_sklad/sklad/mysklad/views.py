@@ -10,13 +10,14 @@ admlogin = ['root', 'admin']
 
 # Стартовая страница Index
 @app.route('/', methods=['GET', 'POST'])
+@app.route('/index', methods=['GET', 'POST'])
 def index():
     if 'username' in session:
         user = session['username']
-        message = Markup(f'<h1>Пользователь {user} авторизован в системе!</h1>')
+        message = Markup(f'Пользователь {user} авторизован в системе!')
         flash(message)
     if 'username' not in session:
-        message = Markup(f'<h1></h1>')
+        message = Markup(f'')
         flash(message)
 
     return render_template('index.html')
@@ -28,7 +29,7 @@ def register_adm():
     form = RegistrationForm(request.form)
 
     if request.method == 'GET':
-        message = Markup("<h1></h1>")
+        message = Markup("")
         flash(message)
 
     if request.method == 'POST':
@@ -37,7 +38,7 @@ def register_adm():
         print(pas1, pas2)
         if str(pas1) == str(pas2):
 
-            message = Markup("<h1>Отлично! Вы зарегистрировались!</h1>")
+            message = Markup("<h3>Отлично! Вы зарегистрировались!</h3>")
             flash(message)
             user = User(request.form.get('family'), request.form.get('name'),
                         request.form.get('midlname'), request.form.get('pozition'), request.form.get('mail'),
@@ -46,7 +47,7 @@ def register_adm():
             sklad.db.session.add(w)
             sklad.db.session.commit()
         else:
-            message = Markup("<h1>Пароли не совпадают! Попробуйте еще раз!</h1>")
+            message = Markup("<h3>Пароли не совпадают! Попробуйте еще раз!</h3>")
             flash(message)
 
     return render_template('register.html', form=form)
@@ -72,7 +73,7 @@ def autorize():
             # redirect_url = '/index'
 
             session['username'] = request.form['username']
-            message = Markup("<h1>Отлично! Вы авторизовались!</h1>")
+            message = Markup("<h3>Отлично! Вы авторизовались!</h3>")
             flash(message)
             if 'username' in session:
                 user = session['username']
@@ -82,7 +83,7 @@ def autorize():
             # { wait_time });</script></body></html>"
 
         else:
-            message = Markup("<h1>Не верный логин или пароль! Попробуйте еще раз!</h1>")
+            message = Markup("<h3>Не верный логин или пароль! Попробуйте еще раз!</h3>")
             flash(message)
             message_aut = Markup('<a href="register">Я хочу зарегистрироваться!</a>')
             flash(message_aut)
@@ -94,12 +95,12 @@ def autorize():
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     form = LoginUser()
-
-    if 'username' in session:
-        user = session['username']
-        message = Markup(f'<h1>Пользователь {user} уже авторизован!</h1>')
-        flash(message)
-        return redirect('/')
+    if request.method == 'GET':
+        if 'username' in session:
+            user = session['username']
+            message = Markup(f'Пользователь {user} уже авторизован!')
+            flash(message)
+            # return redirect('/')
 
     if request.method == 'POST':
 
@@ -107,15 +108,21 @@ def login():
         if usr:
             pas = check_password_hash(usr.pwd, request.form.get('password'))
             if pas:
-                session['username'] = request.form['username']
-                message = Markup("<h1>Отлично! Вы авторизовались!</h1>")
-                flash(message)
-                return redirect('/')
+                remember = request.form.get('remember')
+                if remember:
+                    session['username'] = request.form['username']
+                    message = Markup("<h3>Отлично! Вы авторизовались!</h3>")
+                    flash(message)
+                    return redirect('/')
+                else:
+                    message = Markup("<h3>Отлично! Вы авторизовались!</h3>")
+                    flash(message)
+                    return redirect('/')
             else:
-                message = Markup("<h1>Не верный пароль!!</h1>")
+                message = Markup("<h3>Не верный пароль!!</h3>")
                 flash(message)
         else:
-            message = Markup("<h1>Такого пользователя нет в базе! Попробуйте еще раз!</h1>")
+            message = Markup("<h3>Такого пользователя нет в базе! Попробуйте еще раз!</h3>")
             flash(message)
             return redirect('login')
 
@@ -123,9 +130,9 @@ def login():
 
 
 # Взврат на начальную страницу
-@app.route('/index', methods=['GET', 'POST'])
-def redir():
-    return render_template('index.html')
+# @app.route('/index', methods=['GET', 'POST'])
+# def redir():
+#     return render_template('index.html')
 
 
 # Очистка сессий и возврат на начальную страницу проекта

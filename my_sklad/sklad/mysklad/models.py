@@ -17,6 +17,8 @@ class User:
         return check_password_hash(self.pwdhash, password)
 
 
+
+
 class RegistrationForm(FlaskForm):
     username = StringField('Имя пользователя', [InputRequired()])
     password = PasswordField('Пароль', [InputRequired(), EqualTo('confirm', message='Пароли должны совпадать')])

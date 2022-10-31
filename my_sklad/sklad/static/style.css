@@ -19,8 +19,8 @@ body {
     background-image: linear-gradient(to right, #3d88d3, #b3d3d8);
 }
 .form {
-    height: 350px;
-    width: 600px;
+    height: 400px;
+    width: 650px;
     margin: 0 auto;
     border: rgb(82, 189, 238) 8px ridge;
     border-radius: 5%;
@@ -36,3 +36,10 @@ h4 {
     font-style: italic;
 }
 
+.my_message {
+    display: inline-block;
+    color: blue;
+    width: 600px;
+    height: 20px;
+    margin-left: 5%;
+}
